@@ -147,6 +147,10 @@
   * FN + F12 = Increase Display Brightness
   * FN + Insert = Sleep *Unstable
   * CTRL + Insert = Power Mode Options
+  * FN + PgUp = Page Up
+  * FN + PgDn = Page Down
+  * FN + Home = Home
+  * FN + End = End
   </details>
 * Facetime
 * iMessage
@@ -160,20 +164,16 @@
 * HandOff
   * From Apple devices to laptop, yes. Laptop to Apple devices, no.
 * Keyboard Shortuts (FN Keys)
-  * FN + F8 = Switch to External Display **No Function**
-  * FN + F9 = Search *No Function
-  * FN + PrtScr = Wireless Off/On (Wifi?) **No Function**
-  * FN + Insert = Sleep **Works but unstable**
+  * FN + F8 = Switch to External Display **[No Function]**
+  * FN + F9 = Search **[No Function]**
+  * FN + PrtScr = Wireless Off/On (Wifi?) **[No Function]**
+  * FN + Insert = Sleep **[Works but unstable]**
     * Doesn't wake up after doing this, not even closing and opening laptop wakes it up)* Putting it to sleep by just closing laptop does work and wakes it back up.
-  * FN + S = Toggle Scroll Lock **Wrong Function = Decrease Display Brightness**
-  * FN + B = Pause/Break **Wrong Function = Increase Display Brightness**
-  * FN + H = Toggle between power & battery-status light/hard-drive activity light
-  * FN + R = System Request
-  * FN + CTRL = Open Application Menu
-  * FN + PgUp = Page Up
-  * FN + PgDn = Page Down
-  * FN + Home = Home
-  * FN + End = End
+  * FN + S = Toggle Scroll Lock **[Wrong Function = Decrease Display Brightness]**
+  * FN + B = Pause/Break **[Wrong Function = Increase Display Brightness]**
+  * FN + H = Toggle between power & battery-status light/hard-drive activity light **[No Function/Not my device]**
+  * FN + R = System Request **[No Function]**
+  * FN + CTRL = Open Application Menu **[No Function]**
 * Headphone Combo Jack
   * Unstable; cuts off after .5 seconds.
 * USB-C (Data/Display)
