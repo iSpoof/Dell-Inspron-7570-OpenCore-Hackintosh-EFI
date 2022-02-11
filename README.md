@@ -1,6 +1,9 @@
 # Dell Inspiron 15 7570 Hackintosh
 * OpenCore 0.7.8
 * macOS Monterey v12.2
+![This is an image](https://user-images.githubusercontent.com/85405303/153669634-a73875e8-4452-4cc2-abd2-fb0e3772f9b8.png)
+![This is an image](https://user-images.githubusercontent.com/85405303/153669700-18ee9ac2-aba6-4428-88b7-0d51461e1f05.png)
+![This is an image](https://user-images.githubusercontent.com/85405303/153669731-7e2a017e-8a81-4cc7-887a-fad4d8231693.png)
 
 ## Laptop
 
@@ -130,9 +133,21 @@
 * Trackpad
 * Keyboard
 * Keyboard Illumination (Native)
-* FN Keys (FN Lock, Mute, Volume Down/Up, Rewind, Play/Pause, Forward, Display Brightness Keys)
-* FN + Insert = Instant Sleep*
-* CTRL + Insert = Power Mode Dialog Box
+* <details><summary><strong>Keyboard Shortcuts</strong></summary>
+  
+  * FN + ESC = Toggle FN-Key Lock
+  * FN + F1 = Mute Audio
+  * FN + F2 = Decrease Volume
+  * FN + F3 = Increase Volume
+  * FN + F4 = Play Previous Track/Chapter
+  * FN + F5 = Play/Pause
+  * FN + F6 = Play Next Track/Chapter
+  * FN + F10 = Toggle Keyboard Backlight
+  * FN + F11 = Decrease Display Brightness
+  * FN + F12 = Increase Display Brightness
+  * FN + Insert = Sleep *Unstable
+  * CTRL + Insert = Power Mode Options
+  </details>
 * Facetime
 * iMessage
 * AirPlay
@@ -143,14 +158,27 @@
 * AirDrop 
   * Shows its "On" but its not able to send or recieve with anyone.
 * HandOff
-  * From Apple devices to laptop, yes. Laptop to Apple devices, no).
-* FN Keys "Search", "Switch to External Display", "FN + Print = Wireless On/Off", "FN + B = Pause/Break", "FN + S = Scoll Lock", etc
-* FN + Insert = Instant Sleep
-  * Doesn't wake up after doing this, not even closing and opening laptop wakes it up)* Putting it to sleep by just closing laptop does work and wakes it back up.
+  * From Apple devices to laptop, yes. Laptop to Apple devices, no.
+* Keyboard Shortuts (FN Keys)
+  * FN + F8 = Switch to External Display **No Function**
+  * FN + F9 = Search *No Function
+  * FN + PrtScr = Wireless Off/On (Wifi?) **No Function**
+  * FN + Insert = Sleep **Works but unstable**
+    * Doesn't wake up after doing this, not even closing and opening laptop wakes it up)* Putting it to sleep by just closing laptop does work and wakes it back up.
+  * FN + S = Toggle Scroll Lock **Wrong Function = Decrease Display Brightness**
+  * FN + B = Pause/Break **Wrong Function = Increase Display Brightness**
+  * FN + H = Toggle between power & battery-status light/hard-drive activity light
+  * FN + R = System Request
+  * FN + CTRL = Open Application Menu
+  * FN + PgUp = Page Up
+  * FN + PgDn = Page Down
+  * FN + Home = Home
+  * FN + End = End
 * Headphone Combo Jack
   * Unstable; cuts off after .5 seconds.
-* USB-C (Data)
-  * Only powers devices, but no data at all for some reason.
+* USB-C (Data/Display)
+  * I dont own any display with USB-C (Can't test).
+  * Powers devices, but no data at all for some reason.
 * HDMI
   * Connecting/Disconecting causes screen to go black
     * Current fix is to close laptop, open it and both displays work (idk what's causing this).
