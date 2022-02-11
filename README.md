@@ -156,14 +156,13 @@
 * Facetime
 * iMessage
 * AirPlay
+* HandOff
 * Siri
 * Battery Indicator
 
 ## Not working
 * AirDrop 
   * Shows its "On" but its not able to send or recieve with anyone.
-* HandOff
-  * From Apple devices to laptop, yes. Laptop to Apple devices, no.
 * Keyboard Shortuts (FN Keys)
   * FN + F8 = Switch to External Display **[No Function]**
   * FN + F9 = Search **[No Function]**
