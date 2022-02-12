@@ -182,12 +182,3 @@
 * HDMI
   * Connecting/Disconecting causes screen to go black
     * Current fix is to close laptop, open it and both displays work (idk what's causing this).
-# EFI
-***You must add your own GenSMBIOS info (SystemProductName, SystemSerialNumber, MLB, SystemUUID, & ROM).***
-
-
-<!-- Markdown link & img dfn's -->
-[guideline]: https://dortania.github.io/OpenCore-Install-Guide/
-[OpenIntelWireless's Repo]: https://github.com/OpenIntelWireless/HeliPort/releases
-[itlwm]: https://github.com/OpenIntelWireless/itlwm/releases
-[Proper Tree]: https://github.com/corpnewt/ProperTree
