@@ -168,7 +168,7 @@
   * FN + F9 = Search **[No Function]**
   * FN + PrtScr = Wireless Off/On (Wifi?) **[No Function]**
   * FN + Insert = Sleep **[Works but unstable]**
-    * Doesn't wake up after doing this, not even closing and opening laptop wakes it up)* Putting it to sleep by just closing laptop does work and wakes it back up.
+    * Seems like laptop turns off rather than sleep. It goes through entire boot process instead of instantly wake up.
   * FN + S = Toggle Scroll Lock **[Wrong Function = Decrease Display Brightness]**
   * FN + B = Pause/Break **[Wrong Function = Increase Display Brightness]**
   * FN + H = Toggle between power & battery-status light/hard-drive activity light **[No Function/Not my device]**
