@@ -1,5 +1,4 @@
 # Dell Inspiron 15 7570 Hackintosh
-* OpenCore 0.7.8
 * macOS Monterey v12.2
 * Windows 11 Pro (Dual Boot)
 ![This is an image](https://user-images.githubusercontent.com/85405303/153669634-a73875e8-4452-4cc2-abd2-fb0e3772f9b8.png)
@@ -8,7 +7,7 @@
 
 ## Laptop
 
-| **Specifications** | **Details**                                                         |
+| **Specifications** | **Details**                                                 |
 | -------------- | --------------------------------------------------------------- |
 | Laptop Model   | Dell Inspiron 15 7570 - 4K Touchscreen                          |
 | CPU            | Intel® Core i7-8550U @ 1.8GHz (Kabylake R)                      |
