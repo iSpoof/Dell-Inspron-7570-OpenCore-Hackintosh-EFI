@@ -1,6 +1,5 @@
 # Dell Inspiron 15 7570 Hackintosh
 * macOS Monterey v12.2
-* Windows 11 Pro (Dual Boot)
 ![This is an image](https://user-images.githubusercontent.com/85405303/153669634-a73875e8-4452-4cc2-abd2-fb0e3772f9b8.png)
 ![This is an image](https://user-images.githubusercontent.com/85405303/153669700-18ee9ac2-aba6-4428-88b7-0d51461e1f05.png)
 ![This is an image](https://user-images.githubusercontent.com/85405303/153669731-7e2a017e-8a81-4cc7-887a-fad4d8231693.png)
