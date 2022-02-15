@@ -176,7 +176,7 @@
   * Unstable; Cuts off almost instantly (Needs ALC295PlugFix).
 * USB-C (Data/Display)
   * Data Unstable.
-    * Not always detected (after reboots).
+    * Not always detected. It was detected only after waking up from sleep (Sleep from menu/closing laptop;not with FN + Insert).
     * Low Speeds (40 MB/s Write & Read).
   * Display - Don't own USB-C Display, so I am unable to test.
 * HDMI
