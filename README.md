@@ -174,8 +174,11 @@
   * FN + CTRL = Open Application Menu **[No Function]**
 * Headphone Combo Jack
   * Unstable; Cuts off almost instantly (Needs ALC295PlugFix).
-* USB-C (Data)
-  * Low Speeds (40 MB/s Write & Read). 
+* USB-C (Data/Display)
+  * Data Unstable.
+    * Not always detected (after reboots).
+    * Low Speeds (40 MB/s Write & Read).
+  * Display - Don't own USB-C Display, so I am unable to test.
 * HDMI
   * Connecting/Disconecting causes screen to go black
     * Current fix is to close laptop, open it and both displays work (idk what's causing this).
