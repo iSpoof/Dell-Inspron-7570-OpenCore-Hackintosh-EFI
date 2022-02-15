@@ -125,7 +125,7 @@
 * Ethernet
 * HDMI*
 * x3 USB-A
-* USB-C* (Power Delivery)
+* USB-C* (Data/Power Delivery/Display)
 * SD Card Reader
 * Speakers
 * Microphone
@@ -175,10 +175,9 @@
   * FN + R = System Request **[No Function]**
   * FN + CTRL = Open Application Menu **[No Function]**
 * Headphone Combo Jack
-  * Unstable; cuts off after .5 seconds.
-* USB-C (Data/Display)
-  * I dont own any display with USB-C (Can't test).
-  * Powers devices, but no data at all for some reason.
+  * Unstable; Cuts off almost instantly (Needs ALC295PlugFix).
+* USB-C (Data)
+  * Low Speeds (40 MB/s Write & Read). 
 * HDMI
   * Connecting/Disconecting causes screen to go black
     * Current fix is to close laptop, open it and both displays work (idk what's causing this).
