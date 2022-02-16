@@ -10,14 +10,14 @@
 | -------------- | --------------------------------------------------------------- |
 | Laptop Model   | Dell Inspiron 15 7570 - 4K Touchscreen                          |
 | CPU            | Intel® Core i7-8550U @ 1.8GHz (Kabylake R)                      |
-| GPU            | Intel® UHD Graphics 620 & NVIDIA GeFroce 940MX (Maxwell)        |
+| GPU            | Intel® UHD Graphics 620 & NVIDIA GeFroce 940MX (Disabled)       |
 | RAM            | 1 X 16GB DDR4 2400MHz                                           |
 | Storage        | Samsung PM961 - NVMe M.2 SSD - 512GB                            |
 | Display        | 4K Ultra HD - 60 Hz - Touchscreen - 15.6 inches                 |
 | WIFI/Bluetooth | Intel® Dual Band Wireless - AC7265                              |
 | Ethernet       | Realtek RTL8168/8111                                            |
-| Audio          | Realtek ALC3254 or ALC295 (?)                                   |
-| BIOS           | 1.20.0                                                         |
+| Audio          | Realtek ALC295/ALC3254                                          |
+| BIOS           | 1.20.0                                                          |
 
 ## BIOS Settings
 <details><summary><strong>General</strong></summary>
@@ -122,9 +122,9 @@
 * WIFI/Bluetooth
 * Ethernet
 * HDMI*
-* x3 USB-A
+* x3 USB-A @ 5Gbps
 * USB-C* (Data/Power Delivery/Display)
-* SD Card Reader
+* SD Card Reader @ 480Mbps
 * Speakers
 * Microphone
 * Camera
@@ -161,11 +161,12 @@
 ## Not working
 * AirDrop 
   * Shows its "On" but its not able to send or recieve with anyone.
+  * Might be a possible hardware issue.
 * Keyboard Shortuts (FN Keys)
   * FN + F8 = Switch to External Display **[No Function]**
   * FN + F9 = Search **[No Function]**
   * FN + PrtScr = Wireless Off/On (Wifi?) **[No Function]**
-  * FN + Insert = Sleep **[Works but unstable]**
+  * FN + Insert = Sleep **[Works but possible wrong/broken function]**
     * Seems like laptop turns off rather than sleep. It goes through entire boot process instead of instantly wake up.
   * FN + S = Toggle Scroll Lock **[Wrong Function = Decrease Display Brightness]**
   * FN + B = Pause/Break **[Wrong Function = Increase Display Brightness]**
@@ -180,5 +181,4 @@
     * Low Speeds (40 MB/s Write & Read).
   * Display - Don't own USB-C Display, so I am unable to test.
 * HDMI
-  * Connecting/Disconecting causes screen to go black
-    * Current fix is to close laptop, open it and both displays work (idk what's causing this.
+  * Connecting/Disconecting causes both displays to "break". (No display at all)
